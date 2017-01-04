@@ -58,7 +58,7 @@
 ### Week 3
 * Guiding Questions
 * Warm-Up
-  * Silicon Free Association
+  * Silicon Sensory Association
 * Activities
   * Welcome to the Future, Brad Paisley
     * Focusing Questions:
