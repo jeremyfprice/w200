@@ -1,0 +1,144 @@
+%!TEX program = luatex
+
+\documentclass[12pt]{article}
+\usepackage[margin=0.8in]{geometry}
+\usepackage{fontawesome}
+\usepackage{fontspec}
+\usepackage[hidelinks]{hyperref}
+\usepackage{pdfpages}
+\usepackage{csquotes}
+\MakeOuterQuote{"}
+%\setmainfont{Palatino Linotype}
+%\setsansfont{Myriad Pro}
+%\setmonofont{Andale Mono}
+\usepackage{microtype}
+
+\usepackage{graphicx}
+\setkeys{Gin}{width=\linewidth,totalheight=\textheight,keepaspectratio}
+\graphicspath{{graphics/}}
+
+
+\setlength{\parindent}{0em}
+\setlength{\parskip}{12pt}
+
+\definecolor{fsuMaroon}{RGB}{155,0,33}
+\definecolor{googleBlue}{RGB}{68,134,248}
+\definecolor{googleBlue2}{RGB}{53,122,232}
+\definecolor{sbGray}{HTML}{F6F6FF}
+\definecolor{googleRed}{HTML}{D0402F}
+
+\newcommand{\dueDate}[1]{\textbf{\textcolor{fsuMaroon}{#1}}}
+
+\newcommand{\stepNo}[1]{\noindent\hangindent2em\textit{Step~#1.}}
+
+\newcommand{\figImg}[2]{\begin{center}\frame{\includegraphics[width=#2\linewidth]{ref_sheet-vt-#1.png}}\end{center}}
+
+\newcommand{\buttonText}[1]{\fcolorbox{googleBlue2}{googleBlue}{\color{white}\textsf{\textbf{#1}}}}
+
+\newcommand{\buttonTextRed}[1]{\fcolorbox{googleRed}{googleRed}{\color{white}\textsf{\textbf{\uppercase{#1}}}}}
+
+\newcommand{\tabText}[1]{\fcolorbox{gray}{sbGray}{\color{black}\textsf{#1}}}
+
+\newcommand{\linkText}[1]{\textcolor{googleBlue}{\textsf{\textbf{#1}}}}
+
+\newcommand{\keyText}[1]{\textsf{\faKeyboard~#1}}
+
+\begin{document}
+
+\begin{center}
+\noindent\large\dueDate{\faBook}~~\textsf{\textit{Reference Sheet:} Getting Started with VoiceThread}\normalsize\\
+\rule{4in}{1pt}
+\end{center}
+
+This reference sheet will lead you through the process of getting started with VoiceThread. VoiceThread allows conversations to be conducted around a set of images, videos or slides. You are provided with a Basic VoiceThread account for the duration of your studies at Fairmont State University.
+
+\stepNo{1} Log in to Blackboard, such as through the \url{https://my.fairmontstate.edu/} portal and then navigate to this course. On the side panel, click on the \linkText{Course Content} link.
+\figImg{1}{0.35}
+
+\stepNo{2} The \linkText{VoiceThread} link is the second link. Go ahead and click on it.
+\figImg{2}{0.35}
+
+\newpage
+
+\stepNo{3} At this point, you will be taken to your "Dashboard" page. You are logged in so that you can comment on an existing VoiceThread under your real identity.
+
+\stepNo{4} You should now see a list of recent activity, which will probably include an VoiceThreads you have created recently and possibly any VoiceThreads you have left comments on. In order to create your own VoiceThread, click on the \linkText{Create} link on the bottom right corner of the page.
+\begin{center}\frame{\includegraphics[width=0.35\linewidth]{vt3.png}}\end{center}
+
+\stepNo{5} Once you click on \linkText{Create}, a new tab or window will open with the "Create" screen in it. You can go ahead and start creating.
+\begin{center}\frame{\includegraphics[width=0.35\linewidth]{vt4.png}}\end{center}
+
+\stepNo{6} To get started, you want to add some media (in this case, pictures). Click on the \linkText{\faPlus Add Media} link, which will provide you with a number of different options. If you want to use your own picture or pictures, click on the \linkText{My Computer} option and then upload your file or files. We recommend that you also take a look at the options available to you through VoiceThread, so click on the \linkText{Media Sources} option.
+\begin{center}\frame{\includegraphics[width=0.25\linewidth]{vt-create-1.png}}\end{center}
+
+\stepNo{7} The screen will refresh with a number of different sources available to you. These instructions will walk you through obtaining a photo through the online photo sharing service Flickr, but the process is the same for all sources. So, click on the \linkText{Flickr} option.
+\begin{center}\frame{\includegraphics[width=0.35\linewidth]{vt-create-2.png}}\end{center}
+
+\stepNo{8} You have the choice of exploring different categories (such as "Animals," "Computers," and "Science") or searching for a word or phrase. If you choose to explore a category, just click on the category. If you choose to search, type the word or phrase into the search box and hit the [ENTER] key on your keyboard.
+\begin{center}\frame{\includegraphics[width=0.35\linewidth]{vt-create-3.png}}\end{center}
+
+\stepNo{9} The page will refresh again and provide the results of your search or the available photos in your selected category. Scroll through and then click once on a photograph you would like to use; it should now appear with a blue border around it.
+\begin{center}\frame{\includegraphics[width=0.35\linewidth]{vt-create-4.png}}\end{center}
+
+\stepNo{10} In addition to the blue border around your selected photo, notice that a \buttonText{Import Selected} button appears. Go ahead and click on this button to import the photo into your VoiceThread.
+\begin{center}\frame{\includegraphics[width=0.35\linewidth]{vt-create-5.png}}\end{center}
+
+\newpage
+
+\stepNo{11} Note that a "{\faCheck} \textsf{Media imported}" message appears. You can repeat the media importing process as many times as you wish. When you are done, click on the close button in the shape of an \faClose to return to your VoiceThread.
+\begin{center}\frame{\includegraphics[width=0.35\linewidth]{vt-create-6.png}}\end{center}
+
+\stepNo{12} Once you have your photos set, you are now ready to add comments to your VoiceThread. On the main VoiceThread screen, click on the \linkText{\faComment Comment} option. The screen will refresh with an expanded view of your VoiceThread.
+\begin{center}\frame{\includegraphics[width=0.35\linewidth]{vt-comment-1.png}}\end{center}
+
+\stepNo{13} When you are viewing the VoiceThread, you may view existing comments by clicking on the avatar or image of the person who has already left a comment. You may also press the \linkText{Play} button, which will move through all existing comments in order. See the image below for short descriptions of each button on the screen.
+\figImg{4}{0.75}
+
+\newpage
+
+\stepNo{14} To leave a comment, click on the \buttonText{\faPlus} button just above the bottom of the screen.
+\figImg{5}{0.35}
+
+\stepNo{15} You will be offered a number of different options, such as adding a text comment, comment by phone, recorded audio comment, video comment, or uploading a file. Adding a comment by phone may cost you money, so this is not recommended. Most comments you are expected to contribute have nothing to do with separate files, so instructions for uploading a file are not included here.
+\figImg{6}{0.5}
+
+\stepNo{16} To add a text comment, click on the text comment option (it is represented by \linkText{ABC}). You will then be presented with a text pop-up box. Type in the box and then click on the \buttonText{Save} button when you are ready. Your comment then gets added to the end of the timeline.
+\figImg{7}{0.35}
+
+\newpage
+
+\stepNo{17} To add a recorded audio comment, click on the audio comment option (it is represented by a microphone \linkText{\faMicrophone}). The first time you click on this option, you may be asked to approve VoiceThread's use of your computer's microphone. Click the \buttonText{Allow} button.
+\figImg{8}{0.35}
+
+\stepNo{18} You will see a countdown screen, which is your cue as to when recording will start. Once it counts down, you can talk and your computer's microphone will record you. When you are ready, click on the \buttonTextRed{Stop Recording} button at the bottom of the screen. VoiceThread will play the recording back to you, and if you are satisfied, click on the \buttonText{Save} button and your voice comment will be added to the end of the timeline. If you are not satisfied, click the \buttonText{Cancel} button and you can re-record your comment.
+\figImg{9}{0.75}
+
+\stepNo{19} To add a recorded video comment, click on the video comment option (it is represented by a video camera \linkText{\faFacetimeVideo}). The first time you click on this option, you may be asked to approve VoiceThread's use of your computer's camera, much like recording an audio comment. Click the \buttonText{Allow} button.
+
+\newpage
+
+\stepNo{20} Just like with audio recording, you will see a countdown screen, which is your cue as to when recording will start. Once it counts down, you can talk and your computer's camera will record you. When you are ready, click on the \buttonTextRed{Stop Recording} button at the bottom of the screen. VoiceThread will play the video back to you, and if you are satisfied, click on the \buttonText{Save} button and your voice comment will be added to the end of the timeline. If you are not satisfied, click the \buttonText{Cancel} button and you can re-record your comment.
+
+\stepNo{21} When you are done, click on the close button in the shape of an \faClose to return to your VoiceThread. You are now ready to share. Go ahead and click on the \linkText{\faShare Share} button.
+\begin{center}\frame{\includegraphics[width=0.35\linewidth]{vt-share-1.png}}\end{center}
+
+\stepNo{22} We will be sharing our VoiceThreads in two ways. For the first way, click on the \linkText{Energy Makers Community of Practice} option on the left side of the Sharing screen.
+\begin{center}\frame{\includegraphics[width=0.35\linewidth]{vt-share-2.png}}\end{center}
+
+\stepNo{23} The screen will change slightly. Make sure that \linkText{\faEye View} and \linkText{\faComment Comment} are green; if not, click on them so that they turn green. Then, click on the big blue \buttonText{\faShare Share} button. You have now completed the first way of sharing.
+\begin{center}\frame{\includegraphics[width=0.35\linewidth]{vt-share-3.png}}\end{center}
+
+\stepNo{24} For the second way of sharing, click on the \linkText{Basic} tab on the Sharing screen.
+\begin{center}\frame{\includegraphics[width=0.35\linewidth]{vt-share-4.png}}\end{center}
+
+\newpage
+
+\stepNo{25} After the screen refreshes showing the "Basic" sharing screen, make sure that the boxes next to \texttt{View} and \texttt{Comment} are checked, and then click on the \buttonText{\faLink Copy Link} button.
+\begin{center}\frame{\includegraphics[width=0.35\linewidth]{vt-share-5.png}}\end{center}
+
+\stepNo{26} The link is then copied for you and you can paste it into a posting on the Community of Practice Discussion Forum. To return back to your VoiceThread main screen, click on the close (\faClose) button.
+\begin{center}\frame{\includegraphics[width=0.35\linewidth]{vt-share-6.png}}\end{center}
+
+\stepNo{27} And that's it!
+
+\end{document}
