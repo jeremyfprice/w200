@@ -71,12 +71,12 @@ Technology can be used to embrace, provide access to, and find truth in the comp
 ## Community
 Technology can serve as a medium for teachers to work in solidarity with students, schools, and communities.
 
-![](media/week1/complexity.png)
+![](media/week1/community.png)
 
 ## Justice
 Thoughtful, intentional, and critical evaluation of and planning with technology can help teachers participate in good and just teaching.
 
-![](media/week1/complexity.png)
+![](media/week1/justice.png)
 
 # What Is Meant By 'Good' and 'Just'?
 
