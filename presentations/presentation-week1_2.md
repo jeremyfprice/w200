@@ -1,5 +1,4 @@
-% Test Presentation
-% Yada yada
+% Class Presentation
 % Weeks 1-2
 
 [comment]: # Make with pandoc --section-divs -t revealjs -s --template template.revealjs --self-contained --slide-level 2 -o presentation-week1_2.html presentation-week1_2.md
