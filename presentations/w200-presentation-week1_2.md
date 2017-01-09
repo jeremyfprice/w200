@@ -1,7 +1,7 @@
 % Class Presentation
 % Weeks 1-2
 
-[comment]: # Make with pandoc --section-divs -t revealjs -s --template template.revealjs --self-contained --slide-level 2 -o presentation-week1_2.html presentation-week1_2.md
+[comment]: # Make with pandoc --section-divs -t revealjs -s --template template.revealjs --self-contained --slide-level 2 -o w200-presentation-week1_2.html w200-presentation-week1_2.md
 
 # Welcome to EDUC W200
 
@@ -50,7 +50,7 @@ Dr. Jeremy Price (jfprice@iupui.edu)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GEmuEWjHr5c" frameborder="0" allowfullscreen></iframe>
 
-# Enduring Understandings: Goals for the Course
+# Enduring Understandings:<br />Goals for the Course
 
 ## Overarching
 Technology can serve as a resource to connect with other teachers to grow, learn, and participate in a community of educators engaged in good and just teaching.
