@@ -1,0 +1,68 @@
+%!TEX program = lualatex
+
+\documentclass[10pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{fontawesome}
+\usepackage{fontspec}
+\usepackage[hidelinks]{hyperref}
+\usepackage{pdfpages}
+\usepackage{csquotes}
+\MakeOuterQuote{"}
+\setmainfont{Palatino}
+\setsansfont{BentonSans}
+\setmonofont{Andale Mono}
+\usepackage{microtype}
+\usepackage{color}
+\usepackage{lettrine}
+\usepackage{changepage}
+\usepackage{wrapfig}
+\usepackage{xfrac}
+
+\setlength{\parindent}{0em}
+\setlength{\parskip}{10pt}
+
+\definecolor{fsuMaroon}{RGB}{155,0,33}
+
+\newcommand{\dueDate}[1]{\textbf{\textcolor{fsuMaroon}{#1}}}
+\newcommand{\subHead}[1]{\noindent\textbf{\textsf{\textcolor{fsuMaroon}{#1}}}}
+\newcommand{\dueCalendar}{\noindent\lettrine{\dueDate{\faCalendar}}{~~}}
+\newcommand{\dueText}[1]{\normalsize\textsf{#1}}
+\newcommand{\bottomRule}{\vfill\begin{center}\rule{4in}{1pt}\end{center}}
+
+\begin{document}
+
+\begin{center}
+\noindent\Large\dueDate{\faBriefcase}~~\textsf{Project Package: Virtual Cajita~~\dueDate{\faCube}}\normalsize\\
+\rule{4in}{1pt}
+\end{center}
+
+A cajita is a box of varying shapes and sizes, used in Mexican cultures to remember and honor the dead on the holiday of El Dia de los Muertos (The Day of the Dead). Cajitas have also been used to document and explore one's own life and experiences as a way to reflect back and see how you have come be the person you are now.
+
+You will be finding things---or pictures of things---to put into a virtual cajita that will give some insight into your experiences with learning and technology. You will then use VoiceThread to compile these images with your comments.
+
+You will be constructing a virtual cajita in order to explore the ways that your past experiences have had an impact on how you think about and approaching learning, teaching and technology. For each of the following questions, please identify at least two experiences. Try very hard to explore both positive and negative experiences for each question.
+
+\subHead{Use These Questions To Help Guide Your Cajita:}
+
+\begin{itemize}
+	\itemsep-0.5em
+	\item \textbf{What would your cajita itself{\textemdash}your box{\textemdash}look like?} What would it be made of? (\textbf{1 slide})
+	\item What are the \textbf{key learning experiences}---in school and out of school---that have influenced you throughout your life? (\textbf{2-3 slides})
+	\item What are the \textbf{key experiences with technology for any purpose} that have had an impact on you throughout your life? (\textbf{2-3 slides})
+	\item What are the \textbf{key experiences with technology connected with school} that have had an impact on you and your education throughout your life? (\textbf{2-3 slides})
+\end{itemize}
+
+As you think about your experiences, you must be able to represent them visually or materially in some way. You may find an image or photograph online making use of the media sources that are available to you in VoiceThread or you may take your own photos.
+
+Create a VoiceThread with your images. For each image, \textbf{include a an audio or video explanation by posting a comment on the slide} of what each image represents.
+
+\dueCalendar\dueText{\dueDate{Your Virtual Cajita is due in Canvas by Wednesday, February 1.} See Canvas for the rubric.}
+%\newpage
+
+%\includepdf[angle=180,width=8in]{graphics/webquest-glogster.pdf}
+
+%\newpage
+
+%\includepdf[pages={1-},angle=90,width=8in]{graphics/webquest-rubric.pdf}
+
+\end{document}
