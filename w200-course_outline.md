@@ -36,7 +36,7 @@
   * How do good and just apply to teaching?
   * Why do we talk about good and just teaching with technology?
 * Warm-Up
-  * I don't know?
+  * Serial Story-Telling: "It wasn't my fault. They should put fire alarm boxes way, high up on the wall, so people can't bump into them. Anyway, there I was in the hall at school..." (Source: http://www.uua.org/re/tapestry/children/riddle/session3/157080.shtml)
 * Activities
   * Review Essential Question and Enduring Understandings and point out "Good and Just"
   * "Good and Just" Definitions
