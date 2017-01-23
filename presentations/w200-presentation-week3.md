@@ -7,9 +7,7 @@
 
 A Four Corners Day
 
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y0Yg9wjctRw" frameborder="0" allowfullscreen></iframe>
+![](media/week3/fourcorners.png)
 
 ---
 
@@ -51,6 +49,12 @@ it's just not evenly distributed."
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7lZglztOy0c" frameborder="0" allowfullscreen></iframe>
+
+---
+
+"One thing that's been interesting... to watch is that people that say facts are facts — they're not really facts. Everybody has a way — it's kind of like looking at ratings or looking at a glass of half-full water. Everybody has a way of interpreting them to be the truth or not true. There's no such thing, unfortunately anymore, of facts."
+
+\- Scottie Nell Hughes
 
 ---
 
