@@ -9,6 +9,12 @@ A Four Corners Day
 
 ![](media/week3/fourcorners.png)
 
+# Guidelines
+
+Start off your comments with "As a..." or<br />"Based on my experiences..."
+
+![](media/week3/discussion.png)
+
 ---
 
 "The introduction of computers into schools... improve academic achievement and alter how teachers \[teach\]."

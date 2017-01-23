@@ -60,15 +60,6 @@
 * Warm-Up
   * Silicon Sensory Association
 * Activities
-  * Welcome to the Future, Brad Paisley
-    * Focusing Questions:
-      * What technologies do you see?
-      * What roles do the technologies serve?
-      * Watch https://youtu.be/Y0Yg9wjctRw and use TodaysMeet to capture
-      * Discuss (capture on whiteboard)
-        * What technologies did you see --> capture full range, including prosthetics
-        * What roles did the technologies play
-        * What else stood out for you? What kind of message was the video making about the future and/or the present?
   * Four Corners Activity (with express connections with equity)
     * Start your comments with "As a..." or "Based on my experiences..."
 * Wrap-Up
@@ -209,3 +200,15 @@
 * Activities
 * Wrap-Up
 * Performances Due
+
+
+
+* Welcome to the Future, Brad Paisley
+  * Focusing Questions:
+    * What technologies do you see?
+    * What roles do the technologies serve?
+    * Watch https://youtu.be/Y0Yg9wjctRw and use TodaysMeet to capture
+    * Discuss (capture on whiteboard)
+      * What technologies did you see --> capture full range, including prosthetics
+      * What roles did the technologies play
+      * What else stood out for you? What kind of message was the video making about the future and/or the present?
