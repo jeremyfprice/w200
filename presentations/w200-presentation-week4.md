@@ -3,8 +3,17 @@
 
 [comment]: # Make with pandoc --section-divs -t revealjs -s --template template.revealjs --self-contained -o w200-presentation-week4.html w200-presentation-week4.md
 
-# Technology and Post-Truth {data-background="media/week4/truth.png"}
+# How Do We Approach Truth In Our Teaching With Technology {data-background="media/week4/truth.png"}
 
+---
+
+"One thing that's been interesting... to watch is that people that say facts are facts — they're not really facts. Everybody has a way — it's kind of like looking at ratings or looking at a glass of half-full water. Everybody has a way of interpreting them to be the truth or not true. There's no such thing, unfortunately anymore, of facts."
+
+\- Scottie Nell Hughes
+
+# Truth Defined
+
+"That which is true or in accordance with fact or reality." *\- OED*
 
 # Post-Truth Defined
 
