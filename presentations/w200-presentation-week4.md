@@ -51,12 +51,12 @@ http://go.iu.edu/1tju
 
 Use a tool, or parts of different tools, to analyze your new story.
 
-  1. http://go.iu.edu/1tjC
-  2. http://go.iu.edu/1tjD
-  3. http://go.iu.edu/1tjG
-  4. http://go.iu.edu/1tjI
-  5. http://go.iu.edu/1tjK
-  6. http://go.iu.edu/1tjL
+  1. [http://go.iu.edu/1tjC](http://go.iu.edu/1tjC)
+  2. [http://go.iu.edu/1tmG](http://go.iu.edu/1tmG)
+  3. [http://go.iu.edu/1tjD](http://go.iu.edu/1tjD)
+  4. [http://go.iu.edu/1tjG](http://go.iu.edu/1tjG)
+  5. [http://go.iu.edu/1tjI](http://go.iu.edu/1tjI)
+  6. [http://go.iu.edu/1tjL](http://go.iu.edu/1tjL)
 
 # Jigsaw Part 2B
 
