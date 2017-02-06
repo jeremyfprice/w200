@@ -13,10 +13,6 @@
 
 \- Scottie Nell Hughes
 
-# How Can We Be Certain Of Anything These Days?
-
-"Knowledge consists in the search for truth.... Since we can never know anything for sure, it is simply not worth searching for certainty; but it is well worth searching for truth...." *-Karl Popper*
-
 # Critical Reading
 
   * Is it a credible source?
@@ -56,6 +52,10 @@ What "deeper story" does this reading connect with?
 ## Empathetic Reading
 
 How might someone else experience this reading?
+
+---
+
+"There is beauty in art, in literature, in science, and in every triumph of intelligence, all of which I covet for my country. But there is a higher beauty still—in relieving the poor, in elevating the downtrodden, and being a succor to the oppressed. There is true grandeur in an example of justice, making the rights of all the same as our own, and beating down prejudice, like Satan, under our feet. Humbly do I pray that the republic may not lose this great prize, or postpone its enjoyment." - Charles Sumner, 1871
 
 # What Is My Role? {data-background="media/week5/endslide.png"}
 
