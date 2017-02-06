@@ -24,7 +24,7 @@
 
 Real or fake, we love to see and consume information that aligns with who we are as a person and what we already think and believe. We think, oh, I'm not going to get fooled, but we're all susceptible...
 
-When I read something that makes me feel good, I try to question why that is. And I think that level of emotional skepticism of your own emotions is maybe the next level for people to try to get to.
+When I read something that makes me feel good, I try to question why that is. **And I think that level of emotional skepticism of your own emotions is maybe the next level for people to try to get to.**
 
 \- Craig Silverman
 
