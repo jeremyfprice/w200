@@ -1,0 +1,114 @@
+%!TEX program = lualatex
+
+\documentclass[10pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{fontawesome}
+\usepackage{fontspec}
+\usepackage[hidelinks]{hyperref}
+\usepackage{csquotes}
+\MakeOuterQuote{"}
+\setmainfont{Palatino}
+\setsansfont{BentonSans}
+\setmonofont{Andale Mono}
+\usepackage{microtype}
+\usepackage{color}
+\usepackage{lettrine}
+\usepackage{changepage}
+\usepackage{wrapfig}
+\usepackage{xfrac}
+
+\setlength{\parindent}{0em}
+\setlength{\parskip}{10pt}
+
+\definecolor{fsuMaroon}{RGB}{99,0,0}
+
+\newcommand{\dueDate}[1]{\textbf{\textcolor{fsuMaroon}{#1}}}
+\newcommand{\tableHead}[1]{\textbf{\textsf{\textcolor{fsuMaroon}{#1}}}}
+\newcommand{\subHead}[1]{\noindent\textbf{\textsf{\textcolor{fsuMaroon}{#1}}}}
+\newcommand{\dueCalendar}{\noindent\lettrine{\dueDate{\faCalendar}}{~~}}
+\newcommand{\dueText}[1]{\normalsize\textsf{#1}}
+\newcommand{\bottomRule}{\vfill\begin{center}\rule{4in}{1pt}\end{center}}
+
+\begin{document}
+
+\begin{center}
+\noindent\Large\dueDate{\faBriefcase}~~\textsf{Project Package: UDL Book Truth Project~~\dueDate{\faNewspaperO}}\normalsize\\
+\rule{4in}{1pt}
+\end{center}
+
+The Internet is a wealth of information, although it is difficult to parse through and dig into \emph{truth}. 
+
+Your job, then, is to design a scaffolded and supportive learning environment for a reader to understand how your select news story gets at the idea of truth. You will use a range of strategy supports{\textemdash}Reciprocal Teaching, Contemplative, and Critical{\textemdash}to provide scaffolding for your reader. You will use the \texttt{UDL BookBuilder} (\url{http://bookbuilder.cast.org/}) to create your learning environment.
+
+\subHead{Your UDL Book Should Include:}
+\begin{itemize}
+	\itemsep-0.5em
+	\item At least 7 pages, including a Title Page (if it makes sense, you can have more than 7 pages).
+	\item An image (properly licensed and cited) on every page.
+	\item At least three entries in the \texttt{Glossary} that assist the learner in understanding the news story, defined in your own words (keep in mind that your choice of words to define has an impact on the focus of your news story) and supported by an image.
+	\item Use of 3 Coaches on each page to \textit{help your reader respond to the prompts} in the \texttt{Student Response Area} so each coach has the \textit{same job} on each page. Possible jobs include providing a model response; pointing out relevant information in the text for responding to the prompt; rephrasing the prompt; providing a checklist for what to include in a response \textbf{(do not use the coaches to define words or provide background information)}.
+	\item An introduction of your Coaches and their roles on the Title Page.
+	\item A prompt on different pages in the \texttt{Student Response Area} aligning with each of the four \textbf{Reciprocal Teaching Strategies} (Predict, Summarize, Question, and Visualize), labeled with the strategy.
+	\item A prompt on at least one page in the \texttt{Student Response Area} that aligns with one of the \textbf{Contemplative strategies} (Straight Up Read, Emotional Read, Deep Story Read, Empathetic Read), labeled with the strategy you are using.
+	\item A prompt on at least one page in the \texttt{Student Response Area} that aligns with one of the \textbf{Critical strategies} (Is it a credible source?, What is the point of view?, Does it align with other sources and with reality?, Who benefits?), labeled with the strategy you are using.
+\end{itemize}
+
+\subHead{Your Reflection Write-Up Should Include:}
+\begin{itemize}
+	\itemsep-0.5em
+	\item At least one full page, single-spaced, 12-pt font, with no header at the top.
+	\item At least one paragraph that provides an account of how you designed the UDL Book, with special attention paid to particular experiences and challenges that helped you make decisions.
+	\item At least one paragraph that looks forward to how your UDL Book might be used in the future, paying special attention to ideas such as classroom norms, rules, relationships, and expectations or outcomes.
+	\item Enough detail to show{\textemdash}not just tell{\textemdash}your reader about your experiences and ideas.
+	\item Connections with Good and Just Teaching in a way that provides a rationale and purpose for your work with the news story and with the UDL BookBuilder.
+	\item Explicit connections with the ideas, terms, and concepts of the course, such as scaffolding, priming, etc.
+\end{itemize}
+
+\subHead{Other UDL Book Resources}
+\begin{itemize}
+	\itemsep-0.5em
+	\item Photos for Class (where you can get free photos): \url{http://www.photosforclass.com/}
+	\item Example UDL Book: \url{http://bit.ly/udl-book-truth-model}
+\end{itemize}
+
+\bottomRule
+
+\dueCalendar\dueText{\dueDate{Your UDL Book is due in Canvas by 11:59pm on Monday, March 6.}} You must submit a link to your UDL Book and upload a file that contains your Reflection Write-Up \textbf{separately}.
+\newpage
+
+\subHead{Project Rubric (Also Available on Canvas)}
+
+\footnotesize
+
+{\renewcommand{\arraystretch}{1.3}
+
+\begin{tabular}{| p{1in} | p{1.2in} | p{1.2in} | p{1.2in} | p{1.2in} |}
+	\hline
+	\tableHead{Criteria} & \tableHead{Succeeding} & \tableHead{Developing} & \tableHead{Beginning} & \tableHead{No Evidence} \\
+	\hline\hline
+	\tableHead{Background Information with the Glossary} (20\,pts) & Appropriate and useful words are chosen, and the definitions clearly provide useful information and are supported by images (20\,pts) & Appropriate words may be chosen, but are supported by definitions that provide a minimum amount of information, and may be inconsistently supported by images (17\,pts) & Words may be chosen in a haphazard way and definitions are unclear or unhelpful, and may be inconsistently supported by images (15\,pts) & No glossary (0 pts) \\
+	\hline
+	\tableHead{Use of Supporting Media and Appropriate Structure of Text} (20\,pts) & The article is divided across pages in a manner that makes sense and each page is supported by thoughtful and appropriate supporting images and media (20\,pts) & The article is divided across pages in a manner that more or less makes sense, and may be inconsistently supported by appropriate images and media (17\,pts) & The article may  be divided across pages in a haphazard manner and may not be consistently supported by appropriate and thoughtful images and media (15\,pts) & No supporting media and/or the article may not be divided (0\,pts) \\
+	\hline
+	\tableHead{Application of Strategy Scaffolding with the Student Response Area} (35\,pts) & The Student Response Area prompts draw upon the range of required strategies and are clearly and expertly connected with the text on the page (35\,pts) & The Student Response Area prompts may draw upon the range of required strategies, but may not clearly and appropriately connect with the text on the page (29.75\,pts) & The Student Response Area prompts may be present, but do not represent the range of required strategies even if they connect with the text on the page (26.25\,pts) & No use of the Student Response Area (0\,pts) \\
+	\hline
+	\tableHead{Facilitation of Zone of Proximal Development with the Coaches} (35\,pts) & The coaches are used in an expert and consistent manner to support the reader to respond to the Student Response Area prompts (35\,pts) & The coaches may be used in a consistent manner, but may not help the reader respond to the Student Response Area prompts (29.75\,pts) & Coaches may be present, but may be used inconsistently (26.25\,pts) & No use of coaches to help the reader respond to the prompts in the Student Response Area (0\,pts) \\
+	\hline
+	\tableHead{Apparent Holistic Effort} (10\,pts) & Extensive effort and thoughtfulness is very apparent (10\,pts) & Effort and thoughtfulness is apparent (8.5\,pts) & It may be that this level and type of work is new (7.5\,pts) & No or very little apparent effort; it looks like a last minute rush (0\,pts) \\
+	\hline\hline
+	\tableHead{REFLECTION: Connections with Experience} (4\,pts) & Connections with particular experiences and challenges in the design process are made (4\,pts) & The design process is outlined without highlighting particular experiences and challenges (3.4\,pts) & Few, inconsistent, or unclear connections are made with the design process (3.75\,pts) & No or little connections made to the design process (0\,pts) \\
+	\hline
+	\tableHead{REFLECTION: Connections with Course Ideas and Concepts} (4\,pts) & Course ideas, terms, and concepts (such as scaffolding, priming, etc.) are used to support the reflection in a consistent and clear manner (4\,pts) & The ideas and concepts from the course may be present, but the terms and inconsistently or not used (3.4\,pts) & Some attempt is made to link the reflection with course ideas, terms, and concepts in a haphazard manner (3\,pts) & No connections made with course ideas, terms, and concepts (0\,pts) \\
+	\hline
+	\tableHead{REFLECTION: Connections with Good and Just Teaching} (4\,pts) & Expert connections are made with the ideals of Good and Just Teaching, providing a purpose for this project (4\,pts) & Connections are made with Good and Just Teaching, but may not provide a purpose for this project (3.4\,pts) & Some attempt is made to link this project with Good and Just Teaching (3\,pts) & No or very little effort is made to link this project with Good and Just Teaching (0\,pts) \\
+	\hline
+	\tableHead{REFLECTION: Visualizing Forward} (4\,pts) & Expert connections are made with classroom contexts and a range of considerations are taken into account (4\,pts) & Connections are made with classroom contexts (3.4\,pts) & An attempt is made to connect with classroom contexts (3\,pts) & No connections with classroom contexts (0\,pts) \\
+	\hline
+	\tableHead{REFLECTION: Level of Detail} (4\,pts) & The level of detail adds to the reflection, supporting and providing a view into the writer's thought processes and purposes (4\,pts) & The level of detail is appropriate for providing context (3.4\,pts) & Some detail is provided to provide context inconsistently (3\,pts) & No or very little detail provided; the reflection is skeletal in character (0\,pts) \\
+	\hline
+
+\end{tabular}
+
+\normalsize
+
+\end{document}

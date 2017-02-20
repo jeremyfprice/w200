@@ -1,17 +1,13 @@
 % Class Presentation
-% Week 5
+% Week 7
 
-[comment]: # Make with pandoc --section-divs -t revealjs -s --template template.revealjs --self-contained -o w200-presentation-week5.html w200-presentation-week5.md
+[comment]: # Make with pandoc --section-divs -t revealjs -s --template template.revealjs --self-contained -o w200-presentation-week5.html w200-presentation-week7.md
 
-# How Do We Approach Truth In Our Teaching With Technology Part II {data-background="media/week5/title2.png"}
+# Investigating Scaffolding {data-background="media/week7/start.png"}
 
-# Warm-Up {data-background="media/week5/crowd.png"}
+# Warm-Up
 
-# Recap...
-
-"One thing that's been interesting... to watch is that people that say facts are facts — they're not really facts. Everybody has a way — it's kind of like looking at ratings or looking at a glass of half-full water. Everybody has a way of interpreting them to be the truth or not true. There's no such thing, unfortunately anymore, of facts."
-
-\- Scottie Nell Hughes
+# Warm-Up {data-background="media/week7/redwood.png"}
 
 # Critical Reading
 
