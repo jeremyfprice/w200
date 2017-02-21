@@ -50,7 +50,7 @@ http://go.iu.edu/1tCd
 
 # Embedding Your Own Strategies
 
-http://go.iu.edu/1tCc
+http://bit.ly/w200-ed-in-class
 
 * Question
 * Visualize
