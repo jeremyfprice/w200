@@ -180,6 +180,11 @@
 * Guiding Questions
 * Warm-Up
 * Activities
+  * Discuss Essential Questions (Video: https://www.teachingchannel.org/videos/structure-learning-essential-questions)
+  * Explain Goals and Objectives
+  * Explain Introductory, Guided Inquiry, and Culminating Performances
+  * Archaeology of Diversity WebQuest on Padlet
+  * Preview Map Discussion (Video: https://www.teachingchannel.org/videos/reflection-on-student-work-ntn)
 * Wrap-Up
 * Performances Due
 
@@ -191,6 +196,8 @@
 * Guiding Questions
 * Warm-Up
 * Activities
+  * Peer Turing Reviews
+  * 3-5 minute professor consults
 * Wrap-Up
 * Performances Due
 
